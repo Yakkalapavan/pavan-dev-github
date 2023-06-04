@@ -1,2 +1,2 @@
 This is the Git Command
-another line 
+another line with another Command
